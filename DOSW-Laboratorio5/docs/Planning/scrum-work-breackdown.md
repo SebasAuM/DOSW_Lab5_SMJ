@@ -153,3 +153,17 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-04                                                                                                                                 |
 | **Descripción**                       | Como Equipo quiero verificar con pruebas JUnit que cada consulta de saldo genere su registro de auditoría para asegurar trazabilidad. |
 | **Tareas requisito**                  | TR-11                                                                                                                                 |
+
+
+
+# PARTE 4
+* Al realizar la estimacion despues de llevar una discusion entre nostros llegamos a una conclusion de que estos seria los "Story point" para cada una de las historias de usuarios definidas 
+
+
+<img width="1232" height="308" alt="image" src="https://github.com/user-attachments/assets/90478aa5-4dfb-47c6-971e-017455693a10" />
+
+* A continuacion el siguien video de una de las discusiones que llevamos a cabo para clasificar una de las historias de uso respecto a su estimacion
+  
+
+  
+
