@@ -43,4 +43,6 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 ![cronograma](https://github.com/user-attachments/assets/59711970-cb25-4c28-8da9-6531d5202661)
 
 
-### 5. Backlog:        | TR-11                                                                                                                                 |
+### 5. Backlog:   !![img_1.png](img_1.png)
+**Justificación de la planeación:**
+Se priorizaron HU-01 y HU-02 porque habilitan el flujo base de consulta. HU-03 se incluyó para manejar validaciones y mensajes, reduciendo errores y retrabajo. Las tareas adicionales se asignaron según capacidad del equipo y para asegurar responsabilidad clara por cada ítem.| TR-11                                                                                                                                 |
