@@ -154,3 +154,11 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-04                                                                                                                                 |
 | **Descripción**                       | Como Equipo quiero verificar con pruebas JUnit que cada consulta de saldo genere su registro de auditoría para asegurar trazabilidad. |
 | **Tareas requisito**                  | TR-11                                                                                                                                 |
+
+
+**Justificación de la planeación:**
+La selección del Sprint 1 se basó en (1) prioridad de negocio, (2) dependencias técnicas y (3) capacidad del equipo para una iteración corta.
+Se incluyeron primero HU-01 (visualizar cuentas) y HU-02 (consultar saldo) porque representan el flujo mínimo viable del producto: permiten entregar valor visible al usuario final desde el primer sprint y sirven como base para validar la integración de front/back y la estructura de datos.
+Luego se añadió HU-03 (validaciones y mensajes) para controlar errores comunes desde el inicio (entradas inválidas, respuestas vacías, fallos de consulta), lo cual reduce retrabajo y mejora la calidad del incremento.
+Las tareas complementarias del sprint se asignaron a responsables específicos para asegurar ownership, seguimiento y evitar cuellos de botella.
+Finalmente, se dejó HU-04 (registrar auditoría) en backlog porque depende de que el flujo de consulta esté estable y su aporte es más de trazabilidad que de valor inmediato al usuario en la primera entrega.
