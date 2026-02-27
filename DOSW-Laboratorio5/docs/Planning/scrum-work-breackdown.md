@@ -162,7 +162,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 <img width="1232" height="308" alt="image" src="https://github.com/user-attachments/assets/90478aa5-4dfb-47c6-971e-017455693a10" />
 
-* A continuacion el siguien video de una de las discusiones que llevamos a cabo para clasificar una de las historias de uso respecto a su estimacion
+* A continuacion el siguien video de una de las discusiones que llevamos a cabo para clasificar una de las historias de uso respecto a su estimacion, lo subimos a youtube ya que resulto mas pesado de lo que permite github
+* Enlace : https://youtu.be/Dc-8uXWgqDk
   
 
   
