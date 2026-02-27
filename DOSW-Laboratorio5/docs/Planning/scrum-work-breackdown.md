@@ -21,7 +21,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 |**Titulo**| *Visualizar mis cuentas*|
 | **Descripción** | *Como Cliente quiero ver la lista de mis cuentas asociadas para seleccionar una cuenta y consultar su saldo.* |
 | **Prioridad** | *[Alta]* |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | *34* |
+
 
 | Campo | Descripción |
 |-|----|
@@ -29,7 +30,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 |**Titulo**| *Consultar saldo de una cuenta activa*|
 | **Descripción** | *Como Cliente quiero seleccionar una cuenta activa y ver su saldo e información básica para conocer el estado de mi dinero.* |
 | **Prioridad** | *[Alta]* |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | *21* |
 
 | Campo | Descripción |
 |-|----|
@@ -37,7 +38,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 |**Titulo**| *Validaciones y mensajes de consulta*|
 | **Descripción** | *Como Cliente quiero recibir un mensaje claro si no tengo cuentas, si la cuenta está inactiva o si ocurre un fallo en la consulta para entender qué pasó y qué hacer.* |
 | **Prioridad** | *[Media]*|
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | *21* |
 
 | Campo | Descripción |
 |-|----|
@@ -45,7 +46,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 |**Titulo**| *Registrador de auditoría de consulta*|
 | **Descripción** | *Como Sistema (Bankify) quiero registrar en auditoría cada consulta de saldo para mantener trazabilidad y control.* |
 | **Prioridad** | *[Media]*|
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | *13* |
 
 ### 3. Tareas:
 
